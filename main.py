@@ -50,3 +50,12 @@ def run():
 run()
 
 print('ENJOY YOUR TRIP!!!!')
+
+#submission comments (I forgot to comment when I submitted them so I put the questions here!!)
+#What was your biggest challenge with the project?
+#What did you like most about the project?
+
+
+# I think the biggest challenge I had with the project was getting the program to give a new trip instead of just repeating the same list over and over again
+#What I loved most about the project was how satisfied I felt after completing it. It really gave me the motivation to continue pushing through the course now that I know I can do it.
+
